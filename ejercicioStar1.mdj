@@ -924,13 +924,47 @@
 											"height": 13,
 											"text": "+Operation1()",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGGg2f4XSagWUA=",
+											"_parent": {
+												"$ref": "AAAAAAGGg03BIyPPjK8="
+											},
+											"model": {
+												"$ref": "AAAAAAGGg2f4Viad024="
+											},
+											"font": "Arial;13;0",
+											"left": 285,
+											"top": 564,
+											"width": 130.4443359375,
+											"height": 13,
+											"text": "+dibujar()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGGg2gHXSamhMc=",
+											"_parent": {
+												"$ref": "AAAAAAGGg03BIyPPjK8="
+											},
+											"model": {
+												"$ref": "AAAAAAGGg2gHViaj8QU="
+											},
+											"font": "Arial;13;0",
+											"left": 285,
+											"top": 579,
+											"width": 130.4443359375,
+											"height": 13,
+											"text": "+area()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 280,
 									"top": 454,
 									"width": 140.4443359375,
-									"height": 113
+									"height": 143
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -970,7 +1004,7 @@
 							"left": 280,
 							"top": 376,
 							"width": 140.4443359375,
-							"height": 206,
+							"height": 221,
 							"nameCompartment": {
 								"$ref": "AAAAAAGGg03BIiPJ6QE="
 							},
@@ -2493,6 +2527,22 @@
 								"$ref": "AAAAAAGGg03BIiPGQ+M="
 							},
 							"name": "Operation1"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGGg2f4Viad024=",
+							"_parent": {
+								"$ref": "AAAAAAGGg03BIiPGQ+M="
+							},
+							"name": "dibujar"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGGg2gHViaj8QU=",
+							"_parent": {
+								"$ref": "AAAAAAGGg03BIiPGQ+M="
+							},
+							"name": "area"
 						}
 					]
 				},
