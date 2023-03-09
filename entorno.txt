@@ -1,0 +1,17 @@
+------------------------------------9:28 06/03/2023-----------------------------
+Analisis:¿que?,Diagarma de clases,Modelo de dominio
+*********
+Diseño:¿como?,diagrama de clases,tipos de metodos direccionales
+**********
+Codificacion:
+*********
+Prueba:
+
+***********************************
+Correccion del Ejercicio entorno 5*
+***********************************
+LOS SUSTANTIVOS SON LAS CLASES.
+
+cuantas clases hay:Persona, Vivienda,Municipio, ZonaUrbana,Propietario  
+
+
