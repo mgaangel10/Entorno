@@ -13,5 +13,11 @@ Correccion del Ejercicio entorno 5*
 LOS SUSTANTIVOS SON LAS CLASES.
 
 cuantas clases hay:Persona, Vivienda,Municipio, ZonaUrbana,Propietario  
-
-
+************************SOLID******************************************
+**************************************************************************
+S:Responsabilidad unica,preparar las clases para sus posibles actualizaciones,sirve para un codigo de alta cohesion y alta robusted y menor numero de errores
+O:Abierto y cerrado
+L:sustitucion de isco,supongamos que hay un clase figura y hereda una clase circulo en el metodo calcular area y en el parametro ponemos figura f (estamos en la calse circulo) debe funcionar si ponemos circulo c
+I:principio segregacion de interfaz,Si tuvieramos un ainterface Figura que lleva metodos como por ejemplo calcVolum,calcArea y la implemantamos en la calse esfera esatraia todo bien pero si la implementamnos en la calse cuadrado
+	el metodo de calacVolum no cuadraria .Para esto tendriamos que haxcer dos interfaces una para las figuras 2d y 3d y de ahi saber a que clase implemtarlas
+D:Inversion de independencia,se trata de que en vez de instanciar varias clases que hagan diferentes cosas solo se haga una vez como ArrayList
