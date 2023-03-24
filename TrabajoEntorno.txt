@@ -3,5 +3,20 @@ Trabajo de Entorno
 2- Que etiqueta es la mas adecuada para cada cosa
 3- Explicar que queremos conseguir 
 
+****CONTENIDO****
+justo antes de un metodo
+explicar el metodo
+poner los arametros
+poner el resultado
+/**
+*sumar dos numero
+*paramt operador 1
+*paramt operador 2
+*return devuelve un numero
+*/
+
+explicar unos cuantos de metodos
+documentar el paquete es decir expliacr lo que nos vamos encontrar en el 
+
 
 
