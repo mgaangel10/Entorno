@@ -1,0 +1,6 @@
+scaner sc = new Scanner(System.in);
+
+para leer
+
+int op = sc.nextInt();
+double num=sc.nextDouble();
